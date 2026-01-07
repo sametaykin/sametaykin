@@ -1,5 +1,9 @@
 <h1 align="center">👨‍🎨 Merhaba, Ben Samet! <br> [Hayalleri Tasarıma Dönüştüren Adam]</h1>
-
+<style>
+  .anchor{
+    display:none;
+  }
+</style>
 <p align="center">
   Sıradan temalardan sıkılanlar için <strong>dijital terzilik</strong> yapıyorum. ✂️
 </p>
@@ -69,7 +73,3 @@
   </a>
 
 </div>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=sametaykin&color=blueviolet&style=flat-square&label=Profil+Görüntülenme" alt="Views">
