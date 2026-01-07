@@ -1,9 +1,5 @@
 <h1 align="center">👨‍🎨 Merhaba, Ben Samet! <br> [Hayalleri Tasarıma Dönüştüren Adam]</h1>
-<style>
-  .anchor{
-    display:none;
-  }
-</style>
+
 <p align="center">
   Sıradan temalardan sıkılanlar için <strong>dijital terzilik</strong> yapıyorum. ✂️
 </p>
@@ -11,7 +7,7 @@
 <hr>
 
 <p>
-  Ben, kodların karmaşası içinde kaybolmak yerine, <strong>WordPress ve Elementor</strong>'un sınırsız gücünü kullanarak <strong>piksel mükemmelliğinde</strong> web siteleri inşa eden bir Web Mimarıyım. PHP ile boğuşmak yok; yaratıcılık, strateji ve modern tasarım araçlarıyla <strong>"Vay be!"</strong> dedirten projeler çıkarmak var.
+  Ben, kodların karmaşası içinde kaybolmak yerine, <strong>WordPress ve Elementor</strong>'un sınırsız gücünü kullanarak <strong>piksel mükemmelliğinde</strong> web siteleri inşa eden bir WordPress Tasarımcısıyım. Kodlar ile boğuşmak yok; yaratıcılık, strateji ve modern tasarım araçlarıyla <strong>Vay be!</strong> dedirten projeler çıkarmak var.
 </p>
 
 <p>
