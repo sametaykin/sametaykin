@@ -55,5 +55,3 @@ Projelerini konuşmak, fiyat almak veya sadece "Selam" demek için aşağıdaki 
   </a>
 
 </div>
-
-![Profile Views](https://komarev.com/ghpvc/?username=sametaykin&color=blueviolet&style=flat-square&label=Profil+Görüntülenme)
