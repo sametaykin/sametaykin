@@ -1,4 +1,4 @@
-<h1 align="center">👨‍🎨 Merhaba, Ben Samet! <br> [Hayalleri Tasarıma Dönüştüren Adam]</h1>
+<h1 align="center">👨‍🎨 Merhaba, Ben Samet!</h1>
 
 <p align="center">
   Sıradan temalardan sıkılanlar için <strong>dijital terzilik</strong> yapıyorum. ✂️
