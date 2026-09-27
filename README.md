@@ -1,71 +1,59 @@
-<h1 align="center">👨‍🎨 Merhaba, Ben Samet!</h1>
+<h1 align="center">Hi 👋, I'm Samet</h1>
+
+<h3 align="center">
+  Kotlin & Android Developer
+</h3>
 
 <p align="center">
-  Sıradan temalardan sıkılanlar için <strong>dijital terzilik</strong> yapıyorum. ✂️
+  I build modern Android applications and continuously improve my skills in mobile development.
 </p>
 
-<hr>
+---
 
-<p>
-  Ben, kodların karmaşası içinde kaybolmak yerine, <strong>WordPress ve Elementor</strong>'un sınırsız gücünü kullanarak <strong>piksel mükemmelliğinde</strong> web siteleri inşa eden bir WordPress Tasarımcısıyım. Kodlar ile boğuşmak yok; yaratıcılık, strateji ve modern tasarım araçlarıyla <strong>Vay be!</strong> dedirten projeler çıkarmak var.
+## 👨‍💻 About Me
+
+- 📱 I'm currently learning **Android Development with Kotlin**
+- 🚀 I'm focused on building real-world mobile applications
+- 🧠 I'm improving my knowledge of **Kotlin, Android Studio, Jetpack Compose and Android architecture**
+- 🎯 My goal is to become a professional Android Developer
+- 💡 I enjoy learning by building projects
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,git,github,sqlite" />
+
 </p>
 
-<p>
-  Bir web sitesinin sadece <strong>çalışması</strong> yetmez; aynı zamanda bir sanat eseri gibi görünmeli ve yağ gibi akmalı. İşte ben tam olarak bunu yapıyorum.
+### Currently Learning
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
 </p>
 
-<br>
+---
 
-<h3>🚀 Uzmanlık Alanlarım & Silahlarım</h3>
-<p>Benim olayım <strong>Görsel Kodlama</strong>. Bir sayfayı sıfırdan alıp, Elementor ile ilmek ilmek işleyerek yaşayan bir markaya dönüştürüyorum.</p>
+## 📚 My Android Journey
 
-<ul>
-  <li><strong>WordPress Büyücülüğü:</strong> Standart kurulumlar değil, özel optimizasyonlar.</li>
-  <li><strong>Elementor & Pro:</strong> Sürükle-bırakın ötesinde, dinamik ve özel tasarımlar.</li>
-  <li><strong>HTML5 & CSS3:</strong> Tasarımın yetmediği yerde ince ayarlar için sihirli dokunuşlar. 🎨</li>
-  <li><strong>UI/UX Odaklılık:</strong> Sadece güzel değil, kullanıcının kaybolmadan gezdiği siteler.</li>
-</ul>
-
-<br>
-
-<h3>🤔 Sıkça Sorulan Sorular (SSS)</h3>
-
-<p>
-  <strong>S: Sıfırdan kod (Back-end) yazıyor musun?</strong><br>
-  C: Hayır, ben tekerleği yeniden icat etmiyorum. Dünyanın en güçlü altyapısı WordPress'i alıp, üzerine <strong>özel tasarım</strong> giydiriyorum. Sonuç: Daha hızlı, daha ekonomik ve görsel olarak büyüleyici siteler.
-</p>
-
-<p>
-  <strong>S: Hazır tema mı kullanıyorsun?</strong><br>
-  C: Müşterinin ihtiyacına göre değişir ama benim asıl olayım <strong>"Custom Design"</strong>. Yani senin hayalindeki tasarımı beyaz bir sayfaya Elementor ile sıfırdan çizebilirim.
-</p>
-
-<p>
-  <strong>S: Sadece siteyi yapıp kaçıyor musun?</strong><br>
-  C: Asla! Siteyi teslim ettikten sonra da anahtarın her zaman cebimde. Güncelleme, bakım ve <em>"Şurayı şöyle mi yapsak?"</em> dediğin her an yanındayım.
-</p>
-
-<br>
-
-<h3>🌐 Bana Buradan Ulaşabilirsin</h3>
-<p>Projelerini konuşmak, fiyat almak veya sadece "Selam" demek için aşağıdaki butonlara tıklaman yeterli. <strong>WhatsApp</strong> en hızlısı! 😉</p>
-
-<div align="left">
-  
-  <a href="https://aykin.tr" target="_blank">
-    <img src="https://img.shields.io/badge/Website-aykin.tr-181717?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
-  </a>
-
-  <a href="https://wa.me/905xxxxxxxxx" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-Bana_Yaz-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-
-  <a href="mailto:samet.aykin@outlook.com">
-    <img src="https://img.shields.io/badge/Email-Mail_Gönder-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
-  </a>
-
-  <a href="https://instagram.com/s.sametaykin" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Takip_Et-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-
-</div>
+```text
+Kotlin
+   ↓
+Android Fundamentals
+   ↓
+Jetpack Compose
+   ↓
+MVVM Architecture
+   ↓
+REST APIs
+   ↓
+Room Database
+   ↓
+Firebase
+   ↓
+Production Android Apps
